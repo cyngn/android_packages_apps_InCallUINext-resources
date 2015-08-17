@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> jest nieosiągalny</string>
   <string name="caller_info_no_result">Nie znaleziono <xliff:g id="provider">%s </xliff:g></string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> konfiguracja niekompletna</string>
+  <string name="quick_message_title">Szybka wiadomość</string>
+  <string name="view_contact_title">Zobacz kontakt</string>
+  <string name="call_dismissed_state_label">Odrzucone połączenie</string>
 </resources>

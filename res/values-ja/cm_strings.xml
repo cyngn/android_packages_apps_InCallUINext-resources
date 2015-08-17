@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g>に接続できませんでした</string>
   <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g>で一致する情報は見つかりませんでした</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g>のセットアップが完了していません</string>
+  <string name="quick_message_title">クイックメッセージ</string>
+  <string name="view_contact_title">連絡先を表示</string>
+  <string name="call_dismissed_state_label">通話を終了しました</string>
 </resources>

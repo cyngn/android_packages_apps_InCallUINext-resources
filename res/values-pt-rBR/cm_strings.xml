@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> não pôde ser alcançado</string>
   <string name="caller_info_no_result">Nenhuma correspondência <xliff:g id="provider">%s</xliff:g> encontrada</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> instalação incompleta</string>
+  <string name="quick_message_title">Mensagem rápida</string>
+  <string name="view_contact_title">Exibir contato</string>
+  <string name="call_dismissed_state_label">Chamada recusada</string>
 </resources>

@@ -61,4 +61,7 @@
   <string name="caller_info_failure">Ezin izan da <xliff:g id="provider">%s</xliff:g>(r)ekin kontaktatu</string>
   <string name="caller_info_no_result">Ez da <xliff:g id="provider">%s</xliff:g> aurkitu</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> ezarpena bukatu gabe</string>
+  <string name="quick_message_title">Mezu azkarra</string>
+  <string name="view_contact_title">Ikusi kontaktua</string>
+  <string name="call_dismissed_state_label">Deia baztertu da</string>
 </resources>

@@ -61,4 +61,7 @@
   <string name="caller_info_failure">Відсутній доступ до <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">Збігів <xliff:g id="provider">%s</xliff:g> не знайдено</string>
   <string name="caller_info_unauthenticated">Налаштування <xliff:g id="provider">%s</xliff:g> не завершено</string>
+  <string name="quick_message_title">Миттєве повідомлення</string>
+  <string name="view_contact_title">Переглянути контакт</string>
+  <string name="call_dismissed_state_label">Дзвінок відхилено</string>
 </resources>

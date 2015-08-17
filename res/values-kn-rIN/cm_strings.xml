@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> ತಲುಪಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
   <string name="caller_info_no_result">ಯಾವುದೇ <xliff:g id="provider">%s</xliff:g> ಹೋಲಿಕೆ ಪತ್ತೆಯಾಗಲಿಲ್ಲ</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> ಸೆಟಪ್ ಅಪೂರ್ಣ</string>
+  <string name="quick_message_title">ತ್ವರಿತ ಸಂದೇಶ</string>
+  <string name="view_contact_title">ಸಂಪರ್ಕ ವೀಕ್ಷಿಸಿ</string>
+  <string name="call_dismissed_state_label">ಕರೆ ವಜಾಗೊಳಿಸಿದೆ</string>
 </resources>

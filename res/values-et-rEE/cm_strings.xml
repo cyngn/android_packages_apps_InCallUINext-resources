@@ -58,4 +58,10 @@
   <string name="video_quality_medium">keskmise</string>
   <string name="video_quality_low">madal</string>
   <string name="video_quality_unknown">teadmata</string>
+  <string name="caller_info_failure">Teenusele <xliff:g id="provider">%s</xliff:g> ei pääsetud lähedale</string>
+  <string name="caller_info_no_result">Ei leitud teenusele <xliff:g id="provider">%s</xliff:g> vastet</string>
+  <string name="caller_info_unauthenticated">Teenuse <xliff:g id="provider">%s</xliff:g> seadmine pooleli</string>
+  <string name="quick_message_title">Kiirsõnum</string>
+  <string name="view_contact_title">Vaata kontakti</string>
+  <string name="call_dismissed_state_label">Kõne katkestatud</string>
 </resources>

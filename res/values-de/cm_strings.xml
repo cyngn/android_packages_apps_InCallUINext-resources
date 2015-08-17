@@ -61,4 +61,6 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> konnte nicht erreicht werden</string>
   <string name="caller_info_no_result">Keine Übereinstimmung bei <xliff:g id="provider">%s</xliff:g> gefunden</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g>-Einrichtung unvollständig</string>
+  <string name="view_contact_title">Kontakt anzeigen</string>
+  <string name="call_dismissed_state_label">Anruf abgewiesen</string>
 </resources>

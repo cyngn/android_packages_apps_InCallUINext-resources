@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> није доступан</string>
   <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g> није пронађен</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> подешавање некомплетно</string>
+  <string name="quick_message_title">Брза порука</string>
+  <string name="view_contact_title">Приказ контакта</string>
+  <string name="call_dismissed_state_label">Позив одбачен</string>
 </resources>

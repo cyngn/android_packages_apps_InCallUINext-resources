@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> konnt net erreecht ginn</string>
   <string name="caller_info_no_result">Keen Treffer bei <xliff:g id="provider">%s</xliff:g> fonnt</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> fäerdeg konfiguréiert</string>
+  <string name="quick_message_title">Séiere Message</string>
+  <string name="view_contact_title">Kontakt ukucken</string>
+  <string name="call_dismissed_state_label">Uruff verworf</string>
 </resources>

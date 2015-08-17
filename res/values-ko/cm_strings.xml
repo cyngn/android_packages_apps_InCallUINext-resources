@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g>에 연결할 수 없습니다</string>
   <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g>에서 일치하는 정보 발견되지 않음</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> 설정 미완료</string>
+  <string name="quick_message_title">빠른 메시지</string>
+  <string name="view_contact_title">연락처 보기</string>
+  <string name="call_dismissed_state_label">부재중 전화</string>
 </resources>

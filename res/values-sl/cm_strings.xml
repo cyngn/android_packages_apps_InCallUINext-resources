@@ -59,4 +59,9 @@
   <string name="video_quality_low">nizko</string>
   <string name="video_quality_unknown">neznano</string>
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> ni bilo mogoče doseči</string>
+  <string name="caller_info_no_result">Ni ujemanj s/z <xliff:g id="provider">%s</xliff:g></string>
+  <string name="caller_info_unauthenticated">Namestitev <xliff:g id="provider">%s</xliff:g> nekončana</string>
+  <string name="quick_message_title">Hitro sporočilo</string>
+  <string name="view_contact_title">Pokaži stik</string>
+  <string name="call_dismissed_state_label">Klic opuščen</string>
 </resources>

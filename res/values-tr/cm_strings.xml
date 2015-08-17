@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> ulaşılamadı</string>
   <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g> eşleşmesi bulunamadı</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> kurulumu tamamlanmadı</string>
+  <string name="quick_message_title">Hızlı mesaj</string>
+  <string name="view_contact_title">Kişiyi görüntüle</string>
+  <string name="call_dismissed_state_label">Çağrı reddedildi</string>
 </resources>

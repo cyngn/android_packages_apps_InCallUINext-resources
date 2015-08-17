@@ -61,4 +61,7 @@
   <string name="caller_info_failure">Не удалось подключиться к <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">Совпадений в базе <xliff:g id="provider">%s</xliff:g> не найдено</string>
   <string name="caller_info_unauthenticated">Настройка <xliff:g id="provider">%s</xliff:g> не завершена</string>
+  <string name="quick_message_title">Написать сообщение</string>
+  <string name="view_contact_title">Просмотр контакта</string>
+  <string name="call_dismissed_state_label">Вызов отклонён</string>
 </resources>

@@ -61,4 +61,7 @@
   <string name="caller_info_failure">无法连接到 <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">没有符合 <xliff:g id="provider">%s</xliff:g> 的匹配</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> 安装未完成</string>
+  <string name="quick_message_title">快速消息</string>
+  <string name="view_contact_title">查看联系人</string>
+  <string name="call_dismissed_state_label">呼叫已忽略</string>
 </resources>
