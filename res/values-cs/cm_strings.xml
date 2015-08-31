@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> je nedostupný</string>
   <string name="caller_info_no_result">Nebyl nalezen odpovídající <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> nastavení nebylo dokončeno</string>
+  <string name="quick_message_title">Rychlá zpráva</string>
+  <string name="view_contact_title">Zobrazit kontakt</string>
+  <string name="call_dismissed_state_label">Hovor odmítnut</string>
 </resources>

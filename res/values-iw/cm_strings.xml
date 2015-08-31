@@ -36,17 +36,17 @@
   <string name="modify_call_option_voice">קול בלבד</string>
   <string name="video_call_not_allowed_if_tty_enabled">אנא בטל את מצב TTY כדי לאפשר שיחות וידאו</string>
   <string name="player_started">נגן הופעל</string>
-  <string name="player_stopped">נגן עצר</string>
+  <string name="player_stopped">נגן הפסיק</string>
   <string name="camera_not_ready">המצלמה לא מוכנה</string>
   <string name="camera_ready">המצלמה מוכנה</string>
   <string name="unknown_call_session_event">אירוע שיחה לא ידועה</string>
   <string name="onscreenCallRecordText">התחל/הפסק הקלטת שיחה</string>
   <string name="onscreenAddToBlacklistText">הוסף את המתקשר לרשימת החסומים</string>
   <string name="menu_start_record">הקלט שיחה</string>
-  <string name="menu_stop_record">עצור הקלטה</string>
+  <string name="menu_stop_record">הפסק הקלטה</string>
   <string name="recording_time_text">מקליט</string>
   <string name="recording_warning_title">לאפשר הקלטת שיחה?</string>
-  <string name="recording_warning_text">שים לב: אתה אחראי לציות לכל חוקים, התקנות והכללים החלים על השימוש או ההפצה של הקלטות אלה.</string>
+  <string name="recording_warning_text">שימו לב: אתם אחראיים לציות לכל חוקים, התקנות והכללים החלים על השימוש באפשרות הקלטת השיחות, ו/או ההפצה של הקלטות אלה.</string>
   <string name="sub_1">SIM 1</string>
   <string name="sub_2">SIM 2</string>
   <string name="call_substate_call_resumed">שיחה חודשה</string>
@@ -57,7 +57,7 @@
   <string name="video_quality_high">גבוהה</string>
   <string name="video_quality_medium">בינונית</string>
   <string name="video_quality_low">נמוכה</string>
-  <string name="video_quality_unknown">לא ידוע</string>
+  <string name="video_quality_unknown">לא ידועה</string>
   <string name="caller_info_failure">לא היה ניתן להשיג את <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">לא נמצאה התאמה ל-<xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> ההתקנה לא הושלמה</string>

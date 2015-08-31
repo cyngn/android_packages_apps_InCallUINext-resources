@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> nem elérhető</string>
   <string name="caller_info_no_result">Nincs <xliff:g id="provider">%s </xliff:g> találat</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> beállítása hiányos</string>
+  <string name="quick_message_title">Gyors üzenet</string>
+  <string name="view_contact_title">Névjegy megtekintése</string>
+  <string name="call_dismissed_state_label">Hívás elutasítva</string>
 </resources>

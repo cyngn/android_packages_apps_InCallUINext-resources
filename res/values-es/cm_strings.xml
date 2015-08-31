@@ -61,4 +61,7 @@
   <string name="caller_info_failure">No se contactar con <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">Sin coincidencia encontrada con <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated">Instalación incompleta de <xliff:g id="provider">%s </xliff:g></string>
+  <string name="quick_message_title">Mensaje rápido</string>
+  <string name="view_contact_title">Ver contacto</string>
+  <string name="call_dismissed_state_label">Llamada rechazada</string>
 </resources>

@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> kan niet worden bereikt</string>
   <string name="caller_info_no_result">Geen <xliff:g id="provider">%s</xliff:g>-resultaat gevonden</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> instellen niet voltooid</string>
+  <string name="quick_message_title">Snelbericht</string>
+  <string name="view_contact_title">Contact weergeven</string>
+  <string name="call_dismissed_state_label">Oproep afgewezen</string>
 </resources>

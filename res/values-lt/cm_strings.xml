@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> negali būti pasiektas</string>
   <string name="caller_info_no_result">Nerasta <xliff:g id="provider">%s</xliff:g> atitikmens</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> sąranka neužbaigta</string>
+  <string name="quick_message_title">Greitas pranešimas</string>
+  <string name="view_contact_title">Peržiūrėti kontaktą</string>
+  <string name="call_dismissed_state_label">Skambutis atmestas</string>
 </resources>

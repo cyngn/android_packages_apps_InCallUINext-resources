@@ -17,7 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="callFailed_incoming_cb_enabled">بخش تمام تماس های دریافتی را منع کرده است.</string>
+  <string name="callFailed_incoming_cb_enabled">فرد مورد نظر تمام تماس‌های ورودی را مسدود کرده است.</string>
   <string name="callUnanswered_forwarded">تماس بدون پاسخ و انتقال داده شده</string>
   <string name="incall_call_type_label_forwarded">تماس انتقال یافت</string>
   <string name="card_title_dialing_waiting">شماره گیری (صبر کنید\u2026)</string>
@@ -61,4 +61,7 @@
   <string name="caller_info_failure">دسترسی به<xliff:g id="provider">%s</xliff:g> ممکن نیست</string>
   <string name="caller_info_no_result">مطابقی با <xliff:g id="provider">%s</xliff:g> پیدا نشد</string>
   <string name="caller_info_unauthenticated">تنظیم <xliff:g id="provider">%s</xliff:g> ناقص است</string>
+  <string name="quick_message_title">پیام سریع</string>
+  <string name="view_contact_title">مشاهده مخاطب</string>
+  <string name="call_dismissed_state_label">تماس رد شد</string>
 </resources>

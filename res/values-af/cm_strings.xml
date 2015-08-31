@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> kon nie bereik word nie</string>
   <string name="caller_info_no_result">Geen <xliff:g id="provider">%s</xliff:g> ooreenkomstige gevind</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> opstelling onvolledig</string>
+  <string name="quick_message_title">Vinnige boodskap</string>
+  <string name="view_contact_title">Kyk na kontak</string>
+  <string name="call_dismissed_state_label">Oproep beëindig</string>
 </resources>
