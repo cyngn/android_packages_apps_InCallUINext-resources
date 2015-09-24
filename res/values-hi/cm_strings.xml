@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> तक पहुँचा नहीं जा सका</string>
   <string name="caller_info_no_result">कोई <xliff:g id="provider">%s</xliff:g> मेल नहीं मिले</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> सेट अप अपूर्ण है</string>
+  <string name="quick_message_title">तेज़ संदेश</string>
+  <string name="view_contact_title">संपर्क देखें</string>
+  <string name="call_dismissed_state_label">कॉल खारिज हुआ</string>
 </resources>

@@ -61,4 +61,7 @@
   <string name="caller_info_failure">ไม่สามารถเข้าถึง <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">ไม่พบสิ่งที่ตรงกับ <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated">การตั้งค่า <xliff:g id="provider">%s</xliff:g> ล้มเหลว</string>
+  <string name="quick_message_title">ข้อความด่วน</string>
+  <string name="view_contact_title">ดูรายชื่อติดต่อ</string>
+  <string name="call_dismissed_state_label">การโทรที่ยกเลิก</string>
 </resources>
