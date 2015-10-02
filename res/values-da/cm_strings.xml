@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> kunne ikke nås</string>
   <string name="caller_info_no_result">Intet <xliff:g id="provider">%s</xliff:g> match fundet</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> opsætning ikke færdig</string>
+  <string name="quick_message_title">Hurtig besked</string>
+  <string name="view_contact_title">Se kontakt</string>
+  <string name="call_dismissed_state_label">Opkald afvist</string>
 </resources>
