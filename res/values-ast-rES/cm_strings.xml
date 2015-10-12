@@ -21,6 +21,7 @@
   <string name="callUnanswered_forwarded">Llamada non respondida y reunviada</string>
   <string name="incall_call_type_label_forwarded">Llamada esviada</string>
   <string name="card_title_dialing_waiting">Llamando (esperando\u2026)</string>
+  <string name="card_title_waiting_call">Llamada n\'espera</string>
   <string name="call_recording_failed_message">Hebo un fallu al aniciar la grabación</string>
   <string name="call_recording_file_location">Grabación de llamada guardada en <xliff:g id="filename">%s</xliff:g></string>
   <string name="blacklist_dialog_message">Les llamaes de <xliff:g id="number">%s</xliff:g> van bloquiase</string>
@@ -37,9 +38,12 @@
   <string name="camera_not_ready">La cámara nun ta preparada</string>
   <string name="camera_ready">La cámara ta preparada</string>
   <string name="unknown_call_session_event">Eventu de sesión de llamada desconocíu</string>
+  <string name="onscreenCallRecordText">Anicia y para la grabación de llamaes</string>
   <string name="menu_start_record">Grabar la llamada</string>
   <string name="menu_stop_record">Parar de grabar</string>
   <string name="recording_time_text">Grabando</string>
+  <string name="recording_warning_title">¿Habilitar grabación de llamada?</string>
+  <string name="recording_warning_text">Avisu: Yes responsable del cumplimientu con cualesquier llei, regulación y regla que s\'aplique al usar la funcionalidá de grabación de llamada y l\'usu o distribución d\'eses grabaciones.</string>
   <string name="sub_1">SIM 1</string>
   <string name="sub_2">SIM 2</string>
   <string name="call_substate_call_resumed">Llamada reanudada</string>
@@ -51,4 +55,9 @@
   <string name="video_quality_medium">media</string>
   <string name="video_quality_low">baxa</string>
   <string name="video_quality_unknown">desconocida</string>
+  <string name="caller_info_failure">Nun pudo algamase a <xliff:g id="provider">%s</xliff:g></string>
+  <string name="caller_info_no_result">Nun s\'alcontró dal coincidencia de <xliff:g id="provider">%s</xliff:g></string>
+  <string name="caller_info_unauthenticated">Configuración de <xliff:g id="provider">%s</xliff:g> incompleta</string>
+  <string name="quick_message_title">Mensaxe rápidu</string>
+  <string name="view_contact_title">Ver contautu</string>
 </resources>
