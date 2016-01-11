@@ -22,4 +22,7 @@
   <string name="incall_call_type_label_forwarded">Chamada desviada</string>
   <string name="card_title_waiting_call">Chamada en agarda</string>
   <string name="onscreenBlacklistText">Lista de números bloqueados</string>
+  <string name="sub_1">SIM 1</string>
+  <string name="sub_2">SIM 2</string>
+  <string name="quick_message_title">Mensaxe rápida</string>
 </resources>
