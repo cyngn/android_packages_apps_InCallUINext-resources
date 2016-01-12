@@ -53,10 +53,15 @@
   <string name="call_substate_connected_suspended_audio">المكالمة متصلة، لكن تم تعطيل الصوت</string>
   <string name="call_substate_connected_suspended_video">المكالمة متصلة، ولكن تم تعطيل الفيديو</string>
   <string name="call_substate_avp_retry">جاري الكشف عن جودة  الفيديو \u2026</string>
+  <string name="video_quality_changed">جودة الفيديو تغيرت إلى <xliff:g id="quality" example="high">%1$s </xliff:g></string>
+  <string name="video_quality_high">عالي</string>
   <string name="video_quality_medium">متوسط</string>
   <string name="video_quality_low">منخفض</string>
   <string name="video_quality_unknown">غير معروف</string>
   <string name="caller_info_failure">تعذر الوصول إلى <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">تعذر العثور على مطابقة <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated">إعداد <xliff:g id="provider">%s</xliff:g> غير مكتمل</string>
+  <string name="quick_message_title">الرسالة السريعة</string>
+  <string name="view_contact_title">عرض جهة الاتصال</string>
+  <string name="call_dismissed_state_label">تم استبعاد المكالمة</string>
 </resources>

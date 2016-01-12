@@ -57,6 +57,7 @@
   <string name="video_quality_high">yüksek</string>
   <string name="video_quality_medium">orta</string>
   <string name="video_quality_low">düşük</string>
+  <string name="video_quality_unknown">bilinmeyen</string>
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> kişisine ulaşılamadı</string>
   <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g> eşleşmesi bulunamadı</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> kurulumu tamamlanmadı</string>
