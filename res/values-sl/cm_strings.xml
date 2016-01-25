@@ -27,14 +27,14 @@
   <string name="call_recording_file_location">Snemanje klica shranjeno v <xliff:g id="filename">%s</xliff:g></string>
   <string name="blacklist_dialog_title">Dodaj na seznam blokiranih klicateljev</string>
   <string name="blacklist_dialog_message">Prihodnji klici iz <xliff:g id="number">%s</xliff:g> bodo blokirani</string>
-  <string name="card_title_video_call_paused">Video klic (v premoru)</string>
+  <string name="card_title_video_call_paused">Videoklic (v premoru)</string>
   <string name="onscreenAddParticipant">Dodaj udeleženca</string>
   <string name="modify_call_option_title">Izberi vrsto klica</string>
-  <string name="modify_call_option_vt">Video klic</string>
-  <string name="modify_call_option_vt_tx">Video prenos</string>
-  <string name="modify_call_option_vt_rx">Video prejem</string>
+  <string name="modify_call_option_vt">Videoklic</string>
+  <string name="modify_call_option_vt_tx">Videoprenos</string>
+  <string name="modify_call_option_vt_rx">Videoprejem</string>
   <string name="modify_call_option_voice">Samo glas</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Onemogočite način TTY, da dovolite video klice</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Onemogočite način TTY, da dovolite videoklice</string>
   <string name="player_started">Predvajalnik zagnan</string>
   <string name="player_stopped">Predvajalnik ustavljen</string>
   <string name="camera_not_ready">Kamera ni pripravljena</string>

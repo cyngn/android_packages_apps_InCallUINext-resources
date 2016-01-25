@@ -61,4 +61,7 @@
   <string name="caller_info_failure">تعذر الوصول إلى <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_no_result">تعذر العثور على مطابقة <xliff:g id="provider">%s</xliff:g></string>
   <string name="caller_info_unauthenticated">إعداد <xliff:g id="provider">%s</xliff:g> غير مكتمل</string>
+  <string name="quick_message_title">الرسالة السريعة</string>
+  <string name="view_contact_title">عرض جهة الاتصال</string>
+  <string name="call_dismissed_state_label">تم استبعاد المكالمة</string>
 </resources>
