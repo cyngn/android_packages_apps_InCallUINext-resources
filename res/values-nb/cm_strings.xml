@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s </xliff:g> kan ikke nås</string>
   <string name="caller_info_no_result">Ingen <xliff:g id="provider">%s </xliff:g> match funnet</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s </xliff:g> installasjonen er ufullstendig</string>
+  <string name="quick_message_title">Hurtigmeldinger</string>
+  <string name="view_contact_title">Vis kontakt</string>
+  <string name="call_dismissed_state_label">Samtale avvist</string>
 </resources>

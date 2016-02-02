@@ -61,4 +61,7 @@
   <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> kunde inte nås</string>
   <string name="caller_info_no_result">Ingen <xliff:g id="provider">%s</xliff:g> matchning hittades</string>
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g>-installationen är ofullständig</string>
+  <string name="quick_message_title">Snabbmeddelande</string>
+  <string name="view_contact_title">Visa kontakt</string>
+  <string name="call_dismissed_state_label">Samtal avvisat</string>
 </resources>
