@@ -34,7 +34,7 @@
   <string name="modify_call_option_vt_tx">Передача видео</string>
   <string name="modify_call_option_vt_rx">Приём видео</string>
   <string name="modify_call_option_voice">Только передача голоса</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Отключите режим TTY для выполнения видеозвонков.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Отключите режим TTY для выполнения видеозвонков</string>
   <string name="player_started">Воспроизведение начато</string>
   <string name="player_stopped">Воспроизведение остановлено</string>
   <string name="camera_not_ready">Камера не готова</string>
