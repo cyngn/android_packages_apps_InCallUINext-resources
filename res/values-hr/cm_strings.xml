@@ -50,9 +50,18 @@
   <string name="sub_1">SIM 1</string>
   <string name="sub_2">SIM 2</string>
   <string name="call_substate_call_resumed">Nastavak poziva</string>
+  <string name="call_substate_connected_suspended_audio">Poziv je spojen, ali zvuk je suspendiran</string>
+  <string name="call_substate_connected_suspended_video">Poziv je spojen, ali video je suspendiran</string>
+  <string name="call_substate_avp_retry">Otkrivanje kvalitete videa\u2026</string>
   <string name="video_quality_changed">Kvaliteta slike promijenjena u <xliff:g id="quality" example="high">%1$s</xliff:g></string>
   <string name="video_quality_high">visoko</string>
   <string name="video_quality_medium">srednje</string>
   <string name="video_quality_low">niska</string>
   <string name="video_quality_unknown">nepoznato</string>
+  <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> nije dostupan</string>
+  <string name="caller_info_no_result"><xliff:g id="provider">%s</xliff:g> nije pronađen</string>
+  <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> postavljanje nedovršeno</string>
+  <string name="quick_message_title">Brza poruka</string>
+  <string name="view_contact_title">Prikaz kontakta</string>
+  <string name="call_dismissed_state_label">Poziv odbačen</string>
 </resources>
