@@ -17,12 +17,40 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- In-call screen: call failure reason (call denied because call barring is ON on MT side ) -->
   <string name="callFailed_incoming_cb_enabled">O receptor prohibiu todas as chamadas entrantes.</string>
+  <!-- In-call screen: status label for an incoming call that is not answered and forwarded  -->
   <string name="callUnanswered_forwarded">Chamar ás perdidas e desviadas</string>
+  <!-- In-call screen: "call type" indication for a forwarded call [CHAR LIMIT=30] -->
   <string name="incall_call_type_label_forwarded">Chamada desviada</string>
+  <!-- In-call screen: status label for a call in the "dialing" state that's waiting for the busy remote side -->
+  <!-- In-call screen: status label for a call that is held remotely -->
   <string name="card_title_waiting_call">Chamada en agarda</string>
+  <!-- Text for the onscreen "Blacklist" button -->
   <string name="onscreenBlacklistText">Lista de números bloqueados</string>
+  <!-- Blacklist confirmation dialog -->
+  <!-- In-call screen: status label when in a paused video call. -->
+  <!-- Text for the onscreen "Add Participant" button -->
+  <!-- In-call screen: Modify Call Options for IMS call -->
+  <!-- Message indicating video calls not allowed if user enabled TTY Mode -->
+  <!-- Message indicating that Video Started flowing for IMS-VT calls -->
+  <!-- Message indicating that Video Stopped flowing for IMS-VT calls -->
+  <!-- Message indicating that camera failure has occurred for the selected camera and
+         as result camera is not ready -->
+  <!-- Message indicating that camera is ready/available -->
+  <!-- Message indicating unknown call session event -->
+  <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
+  <!-- Set Subscription screen: label sub 2 -->
   <string name="sub_2">SIM 2</string>
+  <!-- Call substate label for call resumed -->
+  <!-- Call substate label for call connected suspended (audio) -->
+  <!-- Call substate label for call connected suspended (video) -->
+  <!-- Call substate label for avp retry -->
+  <!-- Video quality changed message -->
+  <!-- Video quality High -->
+  <!-- Video quality Medium -->
+  <!-- Video quality Low -->
+  <!-- Video quality Unknown -->
   <string name="quick_message_title">Mensaxe rápida</string>
 </resources>
