@@ -26,9 +26,13 @@
   <!-- In-call screen: status label for a call in the "dialing" state that's waiting for the busy remote side -->
   <string name="card_title_dialing_waiting">چاقىرىۋاتىدۇ (كۈتۈۋاتىدۇ\u2026)</string>
   <!-- In-call screen: status label for a call that is held remotely -->
+  <string name="card_title_waiting_call">چاقىرىشىنى ساقلاش</string>
   <!-- Text for the onscreen "Blacklist" button -->
+  <string name="onscreenBlacklistText">چاقىرىش قارا تىزىملىكى</string>
   <string name="call_recording_failed_message">چاقىرىشنى خاتىرىلەشنى باشلىيالمىدى</string>
+  <string name="call_recording_file_location">سۆزلىشىش ئۈن ھۆججىتى <xliff:g id="filename"><xliff:g id="filename"></xliff:g>گە ساقلاندى</string>
   <!-- Blacklist confirmation dialog -->
+  <string name="blacklist_dialog_title">قارا تىزىملىككە قوشۇش</string>
   <string name="blacklist_dialog_message">كەلگۈسىدە <xliff:g id="number">%s</xliff:g> نىڭ چاقىرىشىنى توسىدۇ</string>
   <!-- In-call screen: status label when in a paused video call. -->
   <string name="card_title_video_call_paused">سىنلىق چاقىرىش (ۋاقىتلىق توختىدى)</string>
@@ -53,9 +57,13 @@
   <string name="camera_ready">كامېرا تەييار</string>
   <!-- Message indicating unknown call session event -->
   <string name="unknown_call_session_event">يوچۇن چاقىرىش ھادىسىسى</string>
+  <string name="onscreenCallRecordText">سۆزلىشىشنى ئاۋازغا ئېلىشنى باشلاش ۋە توختىتىش</string>
+  <string name="onscreenAddToBlacklistText">تېلېفون ئورغۇچىنى قارا تىزىملىككە قوشۇش</string>
   <string name="menu_start_record">چاقىرىشنى خاتىرىلە</string>
   <string name="menu_stop_record">خاتىرىلەشنى توختات</string>
   <string name="recording_time_text">خاتىرىلەۋاتىدۇ</string>
+  <string name="recording_warning_title">سۆزلىشىشنى ئاۋازغا ئالامسىز؟</string>
+  <string name="recording_warning_text">دىققەت: سىزنىڭ سۆزلىشىشنى ئاۋازغا ئېلىشقا ئالاقىدار ئۈننى ئىشلىتىش، مۇناسىۋەتلىك قانۇن، بەلگىلىمە ۋە تۈزۈمگە رىئايە قىلىش مەسئۇليىتىڭىز بار.</string>
   <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
   <!-- Set Subscription screen: label sub 2 -->
@@ -63,9 +71,9 @@
   <!-- Call substate label for call resumed -->
   <string name="call_substate_call_resumed">چاقىرىشقا قايتتى</string>
   <!-- Call substate label for call connected suspended (audio) -->
-  <string name="call_substate_connected_suspended_audio">چاقىرىش باغلاندى ئەمما ئاۋاز ۋاقىتلىق توختىدى</string>
+  <string name="call_substate_connected_suspended_audio">چاقىرىش ئۇلاندى ئەمما ئاۋاز ۋاقىتلىق توختىدى</string>
   <!-- Call substate label for call connected suspended (video) -->
-  <string name="call_substate_connected_suspended_video">چاقىرىش باغلاندى ئەمما سىن ۋاقىتلىق توختىدى</string>
+  <string name="call_substate_connected_suspended_video">چاقىرىش ئۇلاندى ئەمما سىن ۋاقىتلىق توختىدى</string>
   <!-- Call substate label for avp retry -->
   <string name="call_substate_avp_retry">سىن سۈپىتىنى تەكشۈرۈۋاتىدۇ\u2026</string>
   <!-- Video quality changed message -->
@@ -78,4 +86,11 @@
   <string name="video_quality_low">تۆۋەن</string>
   <!-- Video quality Unknown -->
   <string name="video_quality_unknown">يوچۇن</string>
+  <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> گە ئۇلىنالمىدى</string>
+  <string name="caller_info_no_result">بۇ <xliff:g id="provider">%s</xliff:g> غا ماس كەلمىدى</string>
+  <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g>نى قاچىليالمىدى</string>
+  <string name="quick_message_title">تىز ئۇچۇر</string>
+  <string name="view_contact_title">ئالاقەداشنى كۆرسىتىش</string>
+  <string name="call_dismissed_state_label">چاقىرىش پەرۋا قىلىنمىدى</string>
+  <string name="swipe_to_answer">سىيرىپ تېلېفوننى ئېلىڭ</string>
 </resources>

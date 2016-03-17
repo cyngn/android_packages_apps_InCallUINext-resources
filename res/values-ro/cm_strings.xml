@@ -90,4 +90,5 @@
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> configurare incompletă</string>
   <string name="quick_message_title">Mesaj rapid</string>
   <string name="call_dismissed_state_label">Apel respins</string>
+  <string name="swipe_to_answer">Glisați pentru a răspunde</string>
 </resources>

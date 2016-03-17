@@ -26,7 +26,7 @@
   <!-- In-call screen: status label for a call in the "dialing" state that's waiting for the busy remote side -->
   <string name="card_title_dialing_waiting">Deitzen (itxaroten\u2026)</string>
   <!-- In-call screen: status label for a call that is held remotely -->
-  <string name="card_title_waiting_call">Deia zai</string>
+  <string name="card_title_waiting_call">Deia zain</string>
   <!-- Text for the onscreen "Blacklist" button -->
   <string name="onscreenBlacklistText">Blokeatutako deitzaileen zerrenda</string>
   <string name="call_recording_failed_message">Huts egin du deia grabatzen hasteak</string>
@@ -92,4 +92,5 @@
   <string name="quick_message_title">Mezu azkarra</string>
   <string name="view_contact_title">Ikusi kontaktua</string>
   <string name="call_dismissed_state_label">Deia baztertu da</string>
+  <string name="swipe_to_answer">Pasatu hatza erantzuteko</string>
 </resources>

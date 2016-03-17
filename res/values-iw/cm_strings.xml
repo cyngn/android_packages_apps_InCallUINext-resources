@@ -28,11 +28,11 @@
   <!-- In-call screen: status label for a call that is held remotely -->
   <string name="card_title_waiting_call">שיחה בהמתנה</string>
   <!-- Text for the onscreen "Blacklist" button -->
-  <string name="onscreenBlacklistText">רשימת המתקשרים החסומים</string>
-  <string name="call_recording_failed_message">נכשל בהתחלת הקלטת השיחה</string>
-  <string name="call_recording_file_location">שמר את הקלטת השיחה כ-<xliff:g id="filename">%s</xliff:g></string>
+  <string name="onscreenBlacklistText">רשימת מתקשרים חסומים</string>
+  <string name="call_recording_failed_message">נכשלה התחלת הקלטת השיחה</string>
+  <string name="call_recording_file_location">הקלטת השיחה כ-<xliff:g id="filename">%s</xliff:g> נשמרה</string>
   <!-- Blacklist confirmation dialog -->
-  <string name="blacklist_dialog_title">הוסף לרשימת החסומים</string>
+  <string name="blacklist_dialog_title">הוסף לרשימת המתקשרים החסומים</string>
   <string name="blacklist_dialog_message">שיחות עתידיות מ-<xliff:g id="number">%s</xliff:g> ייחסמו</string>
   <!-- In-call screen: status label when in a paused video call. -->
   <string name="card_title_video_call_paused">שיחת וידאו (מושהה)</string>
@@ -45,11 +45,11 @@
   <string name="modify_call_option_vt_rx">קבלת וידאו</string>
   <string name="modify_call_option_voice">קול בלבד</string>
   <!-- Message indicating video calls not allowed if user enabled TTY Mode -->
-  <string name="video_call_not_allowed_if_tty_enabled">אנא בטל את מצב TTY כדי לאפשר שיחות וידאו</string>
+  <string name="video_call_not_allowed_if_tty_enabled">בטל את מצב TTY כדי לאפשר שיחות וידאו</string>
   <!-- Message indicating that Video Started flowing for IMS-VT calls -->
   <string name="player_started">נגן הופעל</string>
   <!-- Message indicating that Video Stopped flowing for IMS-VT calls -->
-  <string name="player_stopped">נגן עצר</string>
+  <string name="player_stopped">הנגן עצר</string>
   <!-- Message indicating that camera failure has occurred for the selected camera and
          as result camera is not ready -->
   <string name="camera_not_ready">המצלמה לא מוכנה</string>
@@ -57,13 +57,13 @@
   <string name="camera_ready">המצלמה מוכנה</string>
   <!-- Message indicating unknown call session event -->
   <string name="unknown_call_session_event">אירוע שיחה לא ידועה</string>
-  <string name="onscreenCallRecordText">התחל/הפסק הקלטת שיחה</string>
-  <string name="onscreenAddToBlacklistText">הוסף את המתקשר לרשימת החסומים</string>
+  <string name="onscreenCallRecordText">התחל והפסק הקלטת שיחה</string>
+  <string name="onscreenAddToBlacklistText">הוסף את המתקשר לרשימת המתקשרים החסומים</string>
   <string name="menu_start_record">הקלט שיחה</string>
   <string name="menu_stop_record">הפסק הקלטה</string>
   <string name="recording_time_text">מקליט</string>
   <string name="recording_warning_title">לאפשר הקלטת שיחה?</string>
-  <string name="recording_warning_text">שימו לב: אתם אחראיים לציות לכל חוקים, התקנות והכללים החלים על השימוש באפשרות הקלטת השיחות, ו/או ההפצה של הקלטות אלה.</string>
+  <string name="recording_warning_text">שימו לב: באחריותך לציית לכל חוקים, התקנות והכללים החלים על השימוש באפשרות הקלטת השיחות, על השימוש ו/או ההפצה של הקלטות אלה.</string>
   <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
   <!-- Set Subscription screen: label sub 2 -->
@@ -73,7 +73,7 @@
   <!-- Call substate label for call connected suspended (audio) -->
   <string name="call_substate_connected_suspended_audio">השיחה מחוברת, אבל הקול מושהה</string>
   <!-- Call substate label for call connected suspended (video) -->
-  <string name="call_substate_connected_suspended_video">השיחה מחוברת, אבל הוידאו מושהה</string>
+  <string name="call_substate_connected_suspended_video">השיחה מחוברת, אבל הווידאו מושהה</string>
   <!-- Call substate label for avp retry -->
   <string name="call_substate_avp_retry">מזהה איכות וידאו\u2026</string>
   <!-- Video quality changed message -->
@@ -91,5 +91,6 @@
   <string name="caller_info_unauthenticated"><xliff:g id="provider">%s</xliff:g> ההתקנה לא הושלמה</string>
   <string name="quick_message_title">הודעה מהירה</string>
   <string name="view_contact_title">הצג איש קשר</string>
-  <string name="call_dismissed_state_label">שיחה נדחתה</string>
+  <string name="call_dismissed_state_label">השיחה נדחתה</string>
+  <string name="swipe_to_answer">החלקה למענה</string>
 </resources>

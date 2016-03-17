@@ -92,4 +92,5 @@
   <string name="quick_message_title">Быстрое сообщение</string>
   <string name="view_contact_title">Просмотр контакта</string>
   <string name="call_dismissed_state_label">Вызов отклонён</string>
+  <string name="swipe_to_answer">Проведите пальцем, чтобы ответить</string>
 </resources>

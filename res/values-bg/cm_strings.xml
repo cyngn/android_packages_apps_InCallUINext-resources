@@ -92,4 +92,5 @@
   <string name="quick_message_title">Бързо съобщение</string>
   <string name="view_contact_title">Изглед на контакт</string>
   <string name="call_dismissed_state_label">Повикването е отхвърлено</string>
+  <string name="swipe_to_answer">Плъзнете за отговор</string>
 </resources>

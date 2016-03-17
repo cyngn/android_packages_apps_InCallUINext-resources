@@ -92,4 +92,5 @@
   <string name="quick_message_title">Szybka wiadomość</string>
   <string name="view_contact_title">Zobacz kontakt</string>
   <string name="call_dismissed_state_label">Odrzucone połączenie</string>
+  <string name="swipe_to_answer">Przesuń, aby odpowiedzieć</string>
 </resources>

@@ -92,4 +92,5 @@
   <string name="quick_message_title">Hitro sporočilo</string>
   <string name="view_contact_title">Pokaži stik</string>
   <string name="call_dismissed_state_label">Klic opuščen</string>
+  <string name="swipe_to_answer">Potegnite za odgovor</string>
 </resources>

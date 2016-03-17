@@ -92,4 +92,5 @@
   <string name="quick_message_title">Messaggio rapido</string>
   <string name="view_contact_title">Visualizza contatto</string>
   <string name="call_dismissed_state_label">Chiamata respinta</string>
+  <string name="swipe_to_answer">Scorri per rispondere</string>
 </resources>

@@ -26,11 +26,13 @@
   <!-- In-call screen: status label for a call in the "dialing" state that's waiting for the busy remote side -->
   <string name="card_title_dialing_waiting">Llamando (esperando\u2026)</string>
   <!-- In-call screen: status label for a call that is held remotely -->
+  <string name="card_title_waiting_call">Llamada en espera</string>
   <!-- Text for the onscreen "Blacklist" button -->
   <string name="onscreenBlacklistText">Lista de contactos bloqueados</string>
   <string name="call_recording_failed_message">Error al iniciar la grabación</string>
   <string name="call_recording_file_location">Grabación de llamada guardada en <xliff:g id="filename">%s</xliff:g></string>
   <!-- Blacklist confirmation dialog -->
+  <string name="blacklist_dialog_title">Añadir a lista de contactos bloqueados</string>
   <string name="blacklist_dialog_message">Las futuras llamadas de <xliff:g id="number">%s</xliff:g> serán bloqueadas</string>
   <!-- In-call screen: status label when in a paused video call. -->
   <string name="card_title_video_call_paused">Videollamada (en pausa)</string>
@@ -55,9 +57,12 @@
   <string name="camera_ready">La cámara está lista</string>
   <!-- Message indicating unknown call session event -->
   <string name="unknown_call_session_event">Evento de sesión de llamada desconocido</string>
+  <string name="onscreenCallRecordText">Iniciar y detener la grabación de la llamada</string>
+  <string name="onscreenAddToBlacklistText">Añadir contacto a lista de contactos bloqueados</string>
   <string name="menu_start_record">Grabar llamada</string>
   <string name="menu_stop_record">Detener grabación</string>
   <string name="recording_time_text">Grabando</string>
+  <string name="recording_warning_title">¿Activar la grabación de llamada?</string>
   <string name="recording_warning_text">Aviso: Eres responsable de cumplir con todas las leyes, los reglamentos o las normas vigentes respecto del uso de la funcionalidad de grabación de llamadas y el uso o distribución de esas grabaciones.</string>
   <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
@@ -81,4 +86,11 @@
   <string name="video_quality_low">baja</string>
   <!-- Video quality Unknown -->
   <string name="video_quality_unknown">desconocida</string>
+  <string name="caller_info_failure"><xliff:g id="provider">%s</xliff:g> no pudo ser contactado</string>
+  <string name="caller_info_no_result">Sin coincidencia encontrada con <xliff:g id="provider">%s</xliff:g></string>
+  <string name="caller_info_unauthenticated">Configuración incompleta de <xliff:g id="provider">%s </xliff:g></string>
+  <string name="quick_message_title">Mensaje rápido</string>
+  <string name="view_contact_title">Ver contacto</string>
+  <string name="call_dismissed_state_label">Llamada rechazada</string>
+  <string name="swipe_to_answer">Deslizar para responder</string>
 </resources>

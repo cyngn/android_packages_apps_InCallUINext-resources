@@ -45,4 +45,5 @@
   <!-- Video quality Medium -->
   <!-- Video quality Low -->
   <!-- Video quality Unknown -->
+  <string name="swipe_to_answer">Desliza para responder</string>
 </resources>

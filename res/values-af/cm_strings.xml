@@ -92,4 +92,5 @@
   <string name="quick_message_title">Vinnige boodskap</string>
   <string name="view_contact_title">Kyk na kontak</string>
   <string name="call_dismissed_state_label">Oproep beëindig</string>
+  <string name="swipe_to_answer">Swipe om te antwoord</string>
 </resources>

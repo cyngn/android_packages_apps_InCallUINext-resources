@@ -92,4 +92,5 @@
   <string name="quick_message_title">Tin nhắn nhanh</string>
   <string name="view_contact_title">Xem số liên lạc</string>
   <string name="call_dismissed_state_label">Cuộc gọi đã bị hủy</string>
+  <string name="swipe_to_answer">Vuốt để trả lời</string>
 </resources>
