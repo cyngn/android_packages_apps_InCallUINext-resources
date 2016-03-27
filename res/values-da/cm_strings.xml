@@ -92,4 +92,5 @@
   <string name="quick_message_title">Hurtig besked</string>
   <string name="view_contact_title">Se kontakt</string>
   <string name="call_dismissed_state_label">Opkald afvist</string>
+  <string name="swipe_to_answer">Stryg for at besvare</string>
 </resources>

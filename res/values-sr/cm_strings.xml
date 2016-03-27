@@ -92,4 +92,5 @@
   <string name="quick_message_title">Брза порука</string>
   <string name="view_contact_title">Приказ контакта</string>
   <string name="call_dismissed_state_label">Позив одбачен</string>
+  <string name="swipe_to_answer">Отклони да одговориш</string>
 </resources>

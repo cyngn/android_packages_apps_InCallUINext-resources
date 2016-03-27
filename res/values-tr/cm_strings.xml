@@ -92,4 +92,5 @@
   <string name="quick_message_title">Hızlı mesaj</string>
   <string name="view_contact_title">Kişiyi görüntüle</string>
   <string name="call_dismissed_state_label">Çağrı reddedildi</string>
+  <string name="swipe_to_answer">Cevaplamak için kaydırın</string>
 </resources>

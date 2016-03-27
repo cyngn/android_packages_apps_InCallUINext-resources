@@ -28,11 +28,11 @@
   <!-- In-call screen: status label for a call that is held remotely -->
   <string name="card_title_waiting_call">Chiamata in attesa</string>
   <!-- Text for the onscreen "Blacklist" button -->
-  <string name="onscreenBlacklistText">Elenco bloccati</string>
+  <string name="onscreenBlacklistText">Contatti bloccati</string>
   <string name="call_recording_failed_message">Impossibile avviare la registrazione della chiamata</string>
   <string name="call_recording_file_location">Registrazione chiamata salvata su <xliff:g id="filename">%s</xliff:g></string>
   <!-- Blacklist confirmation dialog -->
-  <string name="blacklist_dialog_title">Aggiungi all\'elenco bloccati</string>
+  <string name="blacklist_dialog_title">Aggiungi ai contatti bloccati</string>
   <string name="blacklist_dialog_message">Le prossime chiamate provenienti dal <xliff:g id="number">%s</xliff:g> saranno bloccate</string>
   <!-- In-call screen: status label when in a paused video call. -->
   <string name="card_title_video_call_paused">Videochiamata (in pausa)</string>
@@ -58,7 +58,7 @@
   <!-- Message indicating unknown call session event -->
   <string name="unknown_call_session_event">Evento di sessione sconosciuto</string>
   <string name="onscreenCallRecordText">Avvia e interrompi la registrazione della chiamata</string>
-  <string name="onscreenAddToBlacklistText">Aggiungi all\'elenco bloccati</string>
+  <string name="onscreenAddToBlacklistText">Aggiungi ai contatti bloccati</string>
   <string name="menu_start_record">Registra chiamata</string>
   <string name="menu_stop_record">Interrompi la registrazione</string>
   <string name="recording_time_text">Registrazione in corso</string>
