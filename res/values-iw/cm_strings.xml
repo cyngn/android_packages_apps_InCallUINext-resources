@@ -45,7 +45,7 @@
   <string name="modify_call_option_vt_rx">קבלת וידאו</string>
   <string name="modify_call_option_voice">קול בלבד</string>
   <!-- Message indicating video calls not allowed if user enabled TTY Mode -->
-  <string name="video_call_not_allowed_if_tty_enabled">בטל את מצב TTY כדי לאפשר שיחות וידאו</string>
+  <string name="video_call_not_allowed_if_tty_enabled">השבת את מצב TTY כדי לאפשר שיחות וידאו</string>
   <!-- Message indicating that Video Started flowing for IMS-VT calls -->
   <string name="player_started">נגן הופעל</string>
   <!-- Message indicating that Video Stopped flowing for IMS-VT calls -->
@@ -62,7 +62,7 @@
   <string name="menu_start_record">הקלט שיחה</string>
   <string name="menu_stop_record">הפסק הקלטה</string>
   <string name="recording_time_text">מקליט</string>
-  <string name="recording_warning_title">לאפשר הקלטת שיחה?</string>
+  <string name="recording_warning_title">להפעיל הקלטת שיחה?</string>
   <string name="recording_warning_text">שימו לב: באחריותך לציית לכל חוקים, התקנות והכללים החלים על השימוש באפשרות הקלטת השיחות, על השימוש ו/או ההפצה של הקלטות אלה.</string>
   <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
@@ -71,7 +71,7 @@
   <!-- Call substate label for call resumed -->
   <string name="call_substate_call_resumed">שיחה חודשה</string>
   <!-- Call substate label for call connected suspended (audio) -->
-  <string name="call_substate_connected_suspended_audio">השיחה מחוברת, אבל הקול מושהה</string>
+  <string name="call_substate_connected_suspended_audio">השיחה מחוברת, אבל השמע מושהה</string>
   <!-- Call substate label for call connected suspended (video) -->
   <string name="call_substate_connected_suspended_video">השיחה מחוברת, אבל הווידאו מושהה</string>
   <!-- Call substate label for avp retry -->
