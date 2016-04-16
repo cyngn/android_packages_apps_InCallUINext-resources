@@ -30,7 +30,7 @@
   <!-- Text for the onscreen "Blacklist" button -->
   <string name="onscreenBlacklistText">Lista de chamadas bloqueadas</string>
   <string name="call_recording_failed_message">Falha ao iniciar a gravação da chamada</string>
-  <string name="call_recording_file_location">Gravação de chamada salvada em <xliff:g id="filename">%s</xliff:g></string>
+  <string name="call_recording_file_location">Gravação de chamada salva em <xliff:g id="filename">%s</xliff:g></string>
   <!-- Blacklist confirmation dialog -->
   <string name="blacklist_dialog_title">Adicionar à lista de chamadas bloqueadas</string>
   <string name="blacklist_dialog_message">Futuras chamadas de <xliff:g id="number">%s</xliff:g> serão bloqueadas</string>
@@ -52,9 +52,9 @@
   <string name="player_stopped">Reprodutor parado</string>
   <!-- Message indicating that camera failure has occurred for the selected camera and
          as result camera is not ready -->
-  <string name="camera_not_ready">A câmara não está pronta</string>
+  <string name="camera_not_ready">A câmera não está pronta</string>
   <!-- Message indicating that camera is ready/available -->
-  <string name="camera_ready">A câmara está pronta</string>
+  <string name="camera_ready">A câmera está pronta</string>
   <!-- Message indicating unknown call session event -->
   <string name="unknown_call_session_event">Evento de sessão de chamada desconhecido</string>
   <string name="onscreenCallRecordText">Iniciar e parar a gravação de chamadas</string>
@@ -63,7 +63,7 @@
   <string name="menu_stop_record">Parar Gravação</string>
   <string name="recording_time_text">Gravando</string>
   <string name="recording_warning_title">Habilitar a gravação de chamadas?</string>
-  <string name="recording_warning_text">Aviso: Você é responsável pelo cumprimento das leis, regulamentos e regras que se aplicam ao uso da funcionalidade de gravação de chamadas e da utilização ou distribuição dessas gravações.</string>
+  <string name="recording_warning_text">Aviso: Você é responsável por cumprir leis, regulações e regras que se aplicam ao uso da funcionalidade de gravação de chamadas e da utilização ou distribuição dessas gravações.</string>
   <!-- Set Subscription screen: label sub 1 -->
   <string name="sub_1">SIM 1</string>
   <!-- Set Subscription screen: label sub 2 -->
@@ -71,9 +71,9 @@
   <!-- Call substate label for call resumed -->
   <string name="call_substate_call_resumed">Chamada retomada</string>
   <!-- Call substate label for call connected suspended (audio) -->
-  <string name="call_substate_connected_suspended_audio">Chamada está conectada, mas o áudio está suspenso</string>
+  <string name="call_substate_connected_suspended_audio">Chamada conectada, com áudio suspenso</string>
   <!-- Call substate label for call connected suspended (video) -->
-  <string name="call_substate_connected_suspended_video">Chamada está conectada, mas o vídeo está suspenso</string>
+  <string name="call_substate_connected_suspended_video">Chamada conectada, com vídeo suspenso</string>
   <!-- Call substate label for avp retry -->
   <string name="call_substate_avp_retry">Detectando a qualidade de vídeo\u2026</string>
   <!-- Video quality changed message -->
